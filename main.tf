@@ -2,7 +2,6 @@ module "OOOOOOO" {
   source  = "./111"
   
 }
-/*
 provider "aws" {
  region = var.region
 }
@@ -30,4 +29,4 @@ resource "aws_instance" "ubuntu" {
     delete = "15m"
   }
 }
-*/
+
